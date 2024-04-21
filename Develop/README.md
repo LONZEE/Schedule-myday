@@ -26,7 +26,7 @@ THEN the saved events persist
 
 ## Implementation
 * HTML
-* CSS
+* CSS3
 * JavaScript
 
 ## Step By Step Personal Process
